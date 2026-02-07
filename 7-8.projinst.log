@@ -1,0 +1,28 @@
+Plugin v0.0.1 running on KiCad 9.0.2 and Python 3.11.5 (main, Jan 27 2025, 07:08:36) [MSC v.1942 64 bit (AMD64)] on win32.
+Config file C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.projinst.json not found. Creating new one.
+Valid Board found for C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_sch
+7 sheet instances entries in C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_sch
+C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\AC-DC Module.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\AC-DC Module.kicad_sch
+C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\control.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\control.kicad_sch
+C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\PRE-REG.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\PRE-REG.kicad_sch
+C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\FAN_LED.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\FAN_LED.kicad_sch
+C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\Display.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\Display.kicad_sch
+C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\Thermocouple.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\Thermocouple.kicad_sch
+C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\LT PCB.kicad_pcb doesn't exist
+0 sheet instances entries in C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\LT PCB.kicad_sch
+Root item: <wx._dataview.TreeListItem object at 0x00000212498C8B80>
+No Valid Child board for 03dbaf20-3a17-4e10-825c-66276db4bd38
+No Valid Child board for 8acaba90-0ee8-4fe5-b5a1-91c86f0b05dc
+No Valid Child board for 9acfc02a-df02-4577-8a94-87f505eed101
+No Valid Child board for b6596d97-9a1c-423c-b6a7-0608cb358494
+No Valid Child board for e0843f70-ad7e-41dc-b07a-c83dc3f14205
+No Valid Child board for e43f3714-e66d-4975-a1c7-266f622966cd
+No Valid Child board for f98c6c06-7f34-48e2-b260-b1235f196341
+No Valid Child board for 
+Instance is a dead branch: 

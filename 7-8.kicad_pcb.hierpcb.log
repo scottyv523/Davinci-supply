@@ -1,0 +1,104 @@
+Plugin v0.0.1 running on KiCad 9.0.2 and Python 3.11.5 (main, Jan 27 2025, 07:08:36) [MSC v.1942 64 bit (AMD64)] on win32.
+Config file C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb.hierpcb.json not found. Creating new one.
+Imported C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb, with 83 footprints, 0 tracks, and 8 drawings.
+Footprint R4 is not on a sheet, skipping...
+Footprint R18 is not on a sheet, skipping...
+Footprint U8 is not on a sheet, skipping...
+Footprint R16 is not on a sheet, skipping...
+Footprint R6 is not on a sheet, skipping...
+Footprint R12 is not on a sheet, skipping...
+Footprint R11 is not on a sheet, skipping...
+Footprint R13 is not on a sheet, skipping...
+Footprint R17 is not on a sheet, skipping...
+Footprint R5 is not on a sheet, skipping...
+Footprint R3 is not on a sheet, skipping...
+/ (+ PCB C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+├─ /Control PCB/
+├─ /FAN LED DRIVER/
+├─ /Display/
+├─ /Thermocouple/
+├─ /LT3081_3091 REGULATOR PCB/
+Missing path: R4 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: R18 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: U8 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: R16 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: R6 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: R12 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: R11 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: R13 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: R17 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: R5 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+Missing path: R3 (C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb)
+PCB C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-8\7-8\7-8.kicad_pcb
+  /f98c6c06/44ce18d9: K4
+  /f98c6c06/368b4c9c: K3
+  /f98c6c06/6ad3161d: U13
+  /f98c6c06/fc6969ff: U12
+  /f98c6c06/7a6e752a: R20
+  /f98c6c06/39a20425: R15
+  /f98c6c06/aebd2ca3: R14
+  /f98c6c06/7f2df4bf: R10
+  /f98c6c06/4c20fda7: R9
+  /f98c6c06/e2ac767c: R8
+  /f98c6c06/9a8be7c3: R7
+  /20389933: J5
+  /5813d8e3: J2
+  /f98c6c06/9a1165a1: TP1
+  /b6596d97/4b908f9d: R30
+  /f98c6c06/c7690161: TP9
+  /f98c6c06/becfe3df: R22
+  /f98c6c06/56d6704d: C11
+  /f98c6c06/93aaf04f: RV2
+  /e0843f70/61ece5dc: U1
+  /f98c6c06/91cca851: TP2
+  /b6596d97/6d70c1b3: C5
+  /f98c6c06/7edc32a4: TP11
+  /f98c6c06/bf82baa4: C2
+  /f98c6c06/b32594b8: TP8
+  /b6596d97/9bbcd679: C3
+  /8acaba90/0f374138: SW3
+  /f98c6c06/cb0e1366: C8
+  /b6596d97/fbd9372f: U9
+  /f98c6c06/b6d234c2: TP7
+  /f98c6c06/770abbbf: TP4
+  /f98c6c06/ce8568ae: R19
+  /f98c6c06/6fb1cfbb: C7
+  /f98c6c06/2c8292c4: TP3
+  /f98c6c06/88b45d85: U4
+  /f98c6c06/a73b83c6: Q2
+  /f98c6c06/68ae7768: R18
+  /f98c6c06/b7253204: RV3
+  /f98c6c06/e894755a: U2
+  /8acaba90/a99ed880: U11
+  /8acaba90/efccd43e: SW1
+  /b6596d97/c6f295e4: R29
+  /b6596d97/1e3babdd: R28
+  /b6596d97/796ee0ce: R27
+  /f98c6c06/3d5bb76c: TP10
+  /b6596d97/2210e1e5: C4
+  /f98c6c06/f973f7b7: Q1
+  /f98c6c06/f1886635: D6
+  /f98c6c06/71a98683: U3
+  /b6596d97/19712836: U10
+  /b6596d97/366ed3f4: R26
+  /f98c6c06/5b540839: RV4
+  /f98c6c06/aeaf8646: U8
+  /f98c6c06/4e9ee057: R21
+  /f98c6c06/8b0de7cf: TP5
+  /b6596d97/1deed4e1: R31
+  /8acaba90/3cf57beb: R16
+  /e43f3714/b937428d: TC1
+  /f98c6c06/2d9458b3: U6
+  /8acaba90/f33cdc50: A1
+  /8acaba90/0315434d: SW2
+  /f98c6c06/b7747052: C6
+  /f98c6c06/dee8d39f: U7
+  /b6596d97/d3d82bc6: C9
+  /8acaba90/b14695de: R17
+  /f98c6c06/578d8b1e: C10
+  /f98c6c06/2c27e61f: D5
+  /e43f3714/4155f1e8: U5
+  /b6596d97/f016badf: Q3
+  /f98c6c06/013b9736: TP6
+  /f98c6c06/6007909a: RV1
+  /f98c6c06/a0bb15dd: TP12

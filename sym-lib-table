@@ -1,0 +1,6 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "AMAZON JQC-3F(T73)")(type "KiCad")(uri "${KICAD9_SYMBOL_DIR}/AMAZON JQC-3F(T73).kicad_sym")(options "")(descr ""))
+  (lib (name "Hiletgo LLC Bidirectional")(type "KiCad")(uri "${KICAD9_SYMBOL_DIR}/Hiletgo LLC Bidirectional.kicad_sym")(options "")(descr ""))
+  (lib (name "SV LIB 2")(type "KiCad")(uri "${KIPRJMOD}/SV LIB 2.kicad_sym")(options "")(descr ""))
+)

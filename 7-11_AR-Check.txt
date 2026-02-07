@@ -1,0 +1,30 @@
+AR checking written on:
+'C:\Users\vails2\OneDrive - Medtronic PLC\Desktop\Proj\MISC\7-11\7-11\7-11\7-11_AR-Check.txt'
+'action_menu_annular_check.py'
+version = 1.7.2
+Testing PCB for Annular Rings
+TH Pads >= 0.125 Vias >= 0.15
+PHD margin on PTH = 0
+
+AR Via violation of -0.05 at XY 85.1,152.56
+AR Via violation of -0.05 at XY 83.45,150.87
+AR Via violation of -0.05 at XY 113.78,54.93
+AR Via violation of -0.05 at XY 111.29,54.68
+AR Via violation of -0.05 at XY 68.01,65.98
+AR Via violation of -0.05 at XY 163.25,89.0
+AR Via violation of -0.05 at XY 70.74,66.18
+AR Via violation of -0.05 at XY 149.25,116.25
+AR Via violation of -0.05 at XY 147.75,120.0
+AR Via violation of -0.05 at XY 116.15,135.23
+AR Via violation of -0.05 at XY 109.25,135.22
+AR Via violation of -0.05 at XY 140.5,127.25
+AR Via violation of 0.0 at XY 113.694365,30.194365
+AR Via violation of 0.0 at XY 134.75,40.0
+AR Via violation of 0.0 at XY 84.75,52.25
+AR Via violation of 0.0 at XY 73.0,52.25
+AR Via violation of -0.05 at XY 85.58,47.62
+AR Via violation of -0.05 at XY 73.25,47.52
+AR Via violation of 0.0 at XY 87.5,50.25
+VIAS that Pass = 62; Fails = 19
+TH PADS that Pass = 160; Fails = 0
+NPTH PADS that Pass = 0; Fails = 0
